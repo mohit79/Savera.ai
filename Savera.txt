@@ -1,0 +1,4 @@
+Answer 1 - Titanic Machine larning from disaster is the most complex machine learning project I have worked on
+link- https://github.com/mohit79/Titanic-Machine-Learning-Form-Disaster.
+
+Answer 2 - Complexity of the algorithm was O(1).
